@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/cryptoday/static/css/main.b0ded61c.chunk.css",
+    "main.js": "/cryptoday/static/js/main.8ff428dd.chunk.js",
+    "main.js.map": "/cryptoday/static/js/main.8ff428dd.chunk.js.map",
+    "runtime-main.js": "/cryptoday/static/js/runtime-main.13e91242.js",
+    "runtime-main.js.map": "/cryptoday/static/js/runtime-main.13e91242.js.map",
+    "static/css/2.a95be28f.chunk.css": "/cryptoday/static/css/2.a95be28f.chunk.css",
+    "static/js/2.1ae315db.chunk.js": "/cryptoday/static/js/2.1ae315db.chunk.js",
+    "static/js/2.1ae315db.chunk.js.map": "/cryptoday/static/js/2.1ae315db.chunk.js.map",
+    "index.html": "/cryptoday/index.html",
+    "static/css/2.a95be28f.chunk.css.map": "/cryptoday/static/css/2.a95be28f.chunk.css.map",
+    "static/css/main.b0ded61c.chunk.css.map": "/cryptoday/static/css/main.b0ded61c.chunk.css.map",
+    "static/js/2.1ae315db.chunk.js.LICENSE.txt": "/cryptoday/static/js/2.1ae315db.chunk.js.LICENSE.txt",
+    "static/media/cryptocurrency.1548aced.png": "/cryptoday/static/media/cryptocurrency.1548aced.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13e91242.js",
+    "static/css/2.a95be28f.chunk.css",
+    "static/js/2.1ae315db.chunk.js",
+    "static/css/main.b0ded61c.chunk.css",
+    "static/js/main.8ff428dd.chunk.js"
+  ]
+}
